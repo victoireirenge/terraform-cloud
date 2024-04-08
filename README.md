@@ -1,2 +1,2 @@
 # terraform-cloud
-test terraform
+test terraform test
